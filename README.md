@@ -28,5 +28,10 @@ sometext
 
 **Modeling online social signed networks.** Li L, Gu K, Zeng A, Fan Y, Di Z. Physica A: Statistical Mechanics and its Applications. 2018 Apr 1;495:345-52.[[Paper]](https://www.sciencedirect.com/science/article/pii/S0378437117313444)
 
- **BalanSiNG: Fast and Scalable Generation of Realistic Signed Networks.** Jung J, Park HM, Kang U. In EDBT 2020 (pp. 193-204). [[Paper]](https://jinhongjung.github.io/assets/resources/papers/balansingEDBT20.pdf) [[Code]](https://datalab.snu.ac.kr/balansing/)
+**BalanSiNG: Fast and Scalable Generation of Realistic Signed Networks.** Jung J, Park HM, Kang U. In EDBT 2020 (pp. 193-204). [[Paper]](https://jinhongjung.github.io/assets/resources/papers/balansingEDBT20.pdf) [[Code]](https://datalab.snu.ac.kr/balansing/)
+
+**Corona product of signed graphs and its application to modeling signed
+networks.** Bibhas Adhikari, Amrik Singh, and Sandeep Kumar Yadav. 2022. Discrete Mathematics, Algorithms and Applications (2022), 2250062. [[Paper]](https://www.worldscientific.com/doi/abs/10.1142/S1793830922500628)
+
+**Modeling signed networks as 2-layer growing networks.** Pradumn Kumar Pandey, Bibhas Adhikari, Mainak Mazumdar, and Niloy Ganguly. 2020.  IEEE Transactions on Knowledge and Data Engineering (2020). [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9200743) [[Code]](https://github.com/bibhasiitkgp/2L-SNM)
 
