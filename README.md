@@ -4,7 +4,7 @@ This repository aims to provide lists of works on signed network modeling for ge
 
 1. [ Related Survey Papers ](#desc)
 2. [ Datasets ](#datas)
-3. [ Signed Network Reconstruction Models](#SNM)
+3. [ Signed Network Reconstruction Models](#snm)
 
 <a name="desc"></a>
 ## 1. Related Survey Papers
@@ -16,7 +16,7 @@ This repository aims to provide lists of works on signed network modeling for ge
 
 sometext
 
-<a name="SNM"></a>
+<a name="snm"></a>
 ## 3. Signed Network Reconstruction Models
 
 
