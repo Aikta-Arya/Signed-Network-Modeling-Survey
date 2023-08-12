@@ -14,19 +14,19 @@ This repository aims to provide lists of works on signed network modeling for ge
 <a name="datas"></a>
 ## 2. Datasets
 
-| Datasets      | #Nodes        | #Edges    |
-| ------------- | ------------- | --------- |
-| BirdwatchSG   | 2,987         | 441,986   |
-| Bitcoin-Alpha | 3,783         | 24,186    |
-| BitcoinOTC    | 5,881         | 35,592    |
-| Wiki-election | 7,118         | 103,747   |
-| Chess         | 7,301         | 65,053    |
-| WikiRfa       | 10,885        | 137,966   |
-| Slashdot      | 82,144        | 549,202   |
-| WikiConflict  | 1,18,100      | 2,917,785 |
-| Epinions      | 1,31,828      | 841,372   |
-| WikiSigned    | 1,38,592      | 740,397   |
-| TwitterSG     | 7,53,944      | 12,848,093|
+| Datasets      | #Nodes        | #Edges    |  Link    | 
+| ------------- | ------------- | --------- |--------- |
+| BirdwatchSG   | 2,987         | 441,986   | [[L3]](https://dl.acm.org/doi/pdf/10.1145/3539597.3570401)|
+| Bitcoin-Alpha | 3,783         | 24,186    | [[L1]](http://snap.stanford.edu/data/index.html#signnets)|
+| BitcoinOTC    | 5,881         | 35,592    | [[L1]](http://snap.stanford.edu/data/index.html#signnets)|
+| Wiki-election | 7,118         | 103,747   | [[L1]](http://snap.stanford.edu/data/index.html#signnets)|
+| Chess         | 7,301         | 65,053    | [[L2]](http://konect.cc/)|
+| WikiRfa       | 10,885        | 137,966   | [[L1]](http://snap.stanford.edu/data/index.html#signnets)|
+| Slashdot      | 82,144        | 549,202   | [[L1]](http://snap.stanford.edu/data/index.html#signnets)|
+| WikiConflict  | 1,18,100      | 2,917,785 | [[L2]](http://konect.cc/)|
+| Epinions      | 1,31,828      | 841,372   | [[L1]](http://snap.stanford.edu/data/index.html#signnets)|
+| WikiSigned    | 1,38,592      | 740,397   | [[L2]](http://konect.cc/)|
+| TwitterSG     | 7,53,944      | 12,848,093|[[L3]](https://dl.acm.org/doi/pdf/10.1145/3539597.3570401)|
 
 <a name="snm"></a>
 ## 3. Signed Network Reconstruction Models
