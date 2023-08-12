@@ -20,6 +20,8 @@ This repository aims to provide lists of works on signed network modeling for ge
 
 **A comprehensive survey on community detection with deep learning.** Xing S, Shan X, Fanzhen L, Jia W, Jian Y, Chuan Z, Wenbin H, Cecile P, Surya N, Di J, Sheng QZ. IEEE Trans. Neural Netw. Learn. Syst. 2022. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9732192)
 
+**A survey of link prediction in complex networks.** Martínez V, Berzal F, Cubero JC. ACM computing surveys (CSUR). 2016 Dec 20;49(4):1-33. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3012704)
+
 **Applications of link prediction in social networks: A review.** Daud NN, Ab Hamid SH, Saadoon M, Sahran F, Anuar NB. Journal of Network and Computer Applications. 2020 Sep 15;166:102716. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1084804520301909)
 
  
