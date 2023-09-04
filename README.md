@@ -9,20 +9,22 @@ This repository aims to provide lists of works on signed network modeling for ge
 <a name="desc"></a>
 ## 1. Related Survey Papers 
 
-**Social balance in signed networks.** Zheng X, Zeng D, Wang FY. Information Systems Frontiers. 2015 Oct;17:1077-95. [[Paper]](https://link.springer.com/article/10.1007/s10796-014-9483-8)
+**Social balance in signed networks.** Zheng X, Zeng D, and Wang FY. Information Systems Frontiers. 2015 Oct;17:1077-95. [[Paper]](https://link.springer.com/article/10.1007/s10796-014-9483-8)
 
-**A survey of signed network mining in social media.** Tang J, Chang Y, Aggarwal C, Liu H. ACM Computing Surveys (CSUR). 2016 Aug 17;49(3):1-37. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2956185)
+**A survey of signed network mining in social media.** Tang J, Chang Y, Aggarwal C, and Liu H. ACM Computing Surveys (CSUR). 2016 Aug 17;49(3):1-37. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2956185)
 
 **Evolutionary network analysis: A survey.** Charu Aggarwal and Karthik Subbian. 2014. ACM Computing Surveys (CSUR) 47, 1 (2014),
 1–36. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2601412)
 
 **Random graph modeling: A survey of the concepts.** Mikhail Drobyshevskiy and Denis Turdakov. 2019. ACM computing surveys (CSUR) 52, 6 (2019), 1–36. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3369782)
 
-**A comprehensive survey on community detection with deep learning.** Xing S, Shan X, Fanzhen L, Jia W, Jian Y, Chuan Z, Wenbin H, Cecile P, Surya N, Di J, Sheng QZ. IEEE Trans. Neural Netw. Learn. Syst. 2022. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9732192)
+**A comprehensive survey on community detection with deep learning.** Xing S, Shan X, Fanzhen L, Jia W, Jian Y, Chuan Z, Wenbin H, Cecile P, Surya N, Di J, and Sheng QZ. IEEE Trans. Neural Netw. Learn. Syst. 2022. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9732192)
 
-**A survey of link prediction in complex networks.** Martínez V, Berzal F, Cubero JC. ACM computing surveys (CSUR). 2016 Dec 20;49(4):1-33. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3012704)
+**A survey of link prediction in complex networks.** Martínez V, Berzal F, and Cubero JC. ACM computing surveys (CSUR). 2016 Dec 20;49(4):1-33. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3012704)
 
-**Applications of link prediction in social networks: A review.** Daud NN, Ab Hamid SH, Saadoon M, Sahran F, Anuar NB. Journal of Network and Computer Applications. 2020 Sep 15;166:102716. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1084804520301909)
+**Applications of link prediction in social networks: A review.** Daud NN, Ab Hamid SH, Saadoon M, Sahran F, and Anuar NB. Journal of Network and Computer Applications. 2020 Sep 15;166:102716. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1084804520301909)
+
+**A systematic survey on deep generative models for graph generation.** Xiaojie Guo and Liang Zhao. IEEE Transactions On Pattern Analysis And Machine Intelligence. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9920219)
 
  
 <a name="datas"></a>
