@@ -26,6 +26,11 @@ This repository aims to provide lists of works on signed network modeling for ge
 
 **A systematic survey on deep generative models for graph generation.** Xiaojie Guo and Liang Zhao. IEEE Transactions On Pattern Analysis And Machine Intelligence. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9920219)
 
+**A survey on deep graph generation: Methods and applications.** Zhu Y, Du Y, Wang Y, Xu Y, Zhang J, Liu Q, and Wu S. [[Paper]] (arXiv preprint arXiv:2203.06714)
+
+**A survey of graph neural networks for recommender systems: Challenges, methods, and directions.** C Gao, Y Zheng, N Li, Y Li, Y Qin, J Piao, Y Quan, J Chang, D Jin, X He, and Y Li. [[Paper]] (https://dl.acm.org/doi/pdf/10.1145/3568022)
+**A comprehensive survey on graph neural networks.** Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, and S Yu Philip. IEEE Transactions on Neural Networks And Learning Systems. [[Paper]] (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9046288) 
+
  
 <a name="datas"></a>
 ## 2. Datasets
