@@ -1,4 +1,4 @@
-# A Survey on Signed Network Modeling and its Applications
+# A Survey on Signed Network Reconstruction Modeling and its Applications
 
 This repository aims to provide lists of works on signed network modeling for generating synthetic signed networks.
 
