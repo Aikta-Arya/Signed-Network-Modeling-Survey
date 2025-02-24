@@ -47,7 +47,7 @@ This repository aims to provide lists of works on signed network modeling for ge
 | WikiConflict  | 1,18,100      | 2,917,785 | [[L2]](http://konect.cc/)|
 | Epinions      | 1,31,828      | 841,372   | [[L1]](http://snap.stanford.edu/data/index.html#signnets)|
 | WikiSigned    | 1,38,592      | 740,397   | [[L2]](http://konect.cc/)|
-| TwitterSG     | 7,53,944      | 12,848,093|[[L3]](https://dl.acm.org/doi/pdf/10.1145/3539597.3570401)|
+
 
 <a name="snm"></a>
 ## 3. Signed Network Reconstruction Models
