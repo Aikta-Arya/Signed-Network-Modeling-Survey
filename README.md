@@ -69,3 +69,5 @@ networks.** Bibhas Adhikari, Amrik Singh, and Sandeep Kumar Yadav. 2022. Discret
 **Modeling signed networks as 2-layer growing networks.** Pradumn Kumar Pandey, Bibhas Adhikari, Mainak Mazumdar, and Niloy Ganguly. 2020.  IEEE Transactions on Knowledge and Data Engineering (2020). [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9200743) [[Code]](https://github.com/bibhasiitkgp/2L-SNM)
 
 **Structural reconstruction of signed social networks.** Arya A, Pandey PK. IEEE Transactions on Computational Social Systems. 2022. Jul 4. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9815020) 
+
+**SISSRM: Sequentially Induced Signed Subnetwork Reconstruction Model For Generating Realistic Synthetic Signed Networks.** Arya A, Pandey PK. IEEE Transactions on Computational Social Systems. 2024. Oct. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10538998) 
